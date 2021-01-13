@@ -2,7 +2,7 @@
 
 ## Assignments
 
-- An RMarkdown report includes a brief self-introduction and some informative documents related to R.
+- An RMarkdown report includes a brief self-introduction and some informative documents related to R.<b>
     [Assignment 1: RMarkdown](Assignment1_RMarkdown.html)
 
 - A real estate report has been prepared by using dplyr and ggplot2.
