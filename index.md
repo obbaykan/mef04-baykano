@@ -4,19 +4,19 @@
 
 - An RMarkdown report includes a brief self-introduction and some informative documents related to R.
 
-[Assignment 1: RMarkdown](Assignment1_RMarkdown.html)
+    [Assignment 1: RMarkdown](Assignment1_RMarkdown.html)
 
 - A real estate report has been prepared by using dplyr and ggplot2.
 
-[In-Class Exercise (Bonus Assignment)](Bonus-Assignment.html)
+    [In-Class Exercise (Bonus Assignment)](Bonus-Assignment.html)
 
 - A Report for Possible Cost-down Suggestion regarding Energy Budget.
 
-[Assignment 2: Electricity-Market-Prices](Assignment2_Electricity-Market-Prices.html)
+    [Assignment 2: Electricity-Market-Prices](Assignment2_Electricity-Market-Prices.html)
 
 - An EDA for Esoph data & Principle Components Analysis and Multidimensional Scaling for Young Survey Data Set
 
-[Assignment 3.1: PCA and MDS Analysis with Esoph & Young Survey Data Sets](Assignment_3_Young_Survey.html)
+    [Assignment 3.1: PCA and MDS Analysis with Esoph & Young Survey Data Sets](Assignment_3_Young_Survey.html)
 
 
 ## MadagaskaR Group Project
