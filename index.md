@@ -19,7 +19,7 @@
     [Assignment 3.1: PCA and MDS Analysis with Esoph & Young Survey Data Sets](Assignment_3_Young_Survey.html)
 
 
-## MadagaskaR Group Project
+## [MadagaskaR Group Project](https://pjournal.github.io/mef04g-madagaskar/)
 
 ### Assignment
 
