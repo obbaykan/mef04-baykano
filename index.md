@@ -1,4 +1,4 @@
-# *Welcome*
+# *MEF University BDA503 Course Progress Journal*
 
 ## Assignments
 
